@@ -30,7 +30,7 @@ do
 		Application_To_Kill=$(ps -Ac | pgrep "$element")
 		echo "---Killing "$element"---"
 		kill $Application_To_Kill
-		echo "---"$element" Killed Successful---"
+		echo "---"$element" Kill Successful---"
 	else
 		echo "---"$element" Currently Not Running---"
 	fi
