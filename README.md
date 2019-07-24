@@ -16,3 +16,10 @@ A collection of all the Scripts i make for myself, descriptions below:
   - looks in the URL's html code for a input form with the id "password" and enters the given arugement (working on making it look for more then just ID if this fails)
   - hits the login button
 
+3. Steam_Top_Selling_Scraper.py
+  - Contains a script that grabs the list of top selling games from steam.com and saves it to a local text file
+  - opens google chrome and goes to https://store.steampowered.com
+  - looks for the Top Selling (For all game categories) tab on the home page
+  - Clicks the tab to open up the table
+  - copies a list of game names and prices saves these lists to a text file
+  - navagates to the Action and Advenure games tabs to do the same for those categories specifically
