@@ -2,7 +2,7 @@
 A collection of all the Scripts I make for myself, descriptions below:
 
 1. KillApplications.sh
-  Uses: Bash
+  (Uses: Bash)
 
   - Contains a list of applications that should all be closed
   - Checks if the application has any processes that are currently running
@@ -12,7 +12,7 @@ A collection of all the Scripts I make for myself, descriptions below:
   - (this is a simple modular for a larger project)
 
 2. Auto_Login.py
-  Uses: Python and Selenium
+  (Uses: Python and Selenium)
 
   - Contains a script to get terminal arugements for username, password, and url of a website
   - opens google chrome and goes to that URL
@@ -21,7 +21,7 @@ A collection of all the Scripts I make for myself, descriptions below:
   - hits the login button
 
 3. Steam_Top_Selling_Scraper.py
-  Uses: Python and Selenium  
+  (Uses: Python and Selenium)
 
   - Contains a script that grabs the list of top selling games from steam.com and saves it to a local text file
   - opens google chrome and goes to https://store.steampowered.com
